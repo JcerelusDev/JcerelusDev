@@ -1,4 +1,4 @@
-Hi, I’m JcerelusDev
+Hi, I’m JcerelusDev , i am a web developer.
 Im interested in games 
 and apps development.
 
