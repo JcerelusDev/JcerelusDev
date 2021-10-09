@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JcerelusDev
+Hi, I’m JcerelusDev
 Im interested in games 
 and apps development.
 
