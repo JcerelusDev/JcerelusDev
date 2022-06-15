@@ -1,6 +1,8 @@
-Hi, I’m JcerelusDev , i am a web developer.
-Im interested in games 
+Hi, This is JcerelusDev , web development technologies.
+Godd interests in games 
 and apps development.
+JcerelusDev provide lots of good ressources to help
+developers on their journey.
 
 <!---
 JcerelusDev/JcerelusDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
