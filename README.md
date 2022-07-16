@@ -1,5 +1,5 @@
 Hi, This is JcerelusDev , web development technologies.
-Godd interests in games 
+Good interests in games 
 and apps development.
 JcerelusDev provide lots of good ressources to help
 developers on their journey.
